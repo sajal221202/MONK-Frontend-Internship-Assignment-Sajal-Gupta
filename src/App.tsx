@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { Question, Result, ApiResponse } from './types'
+import { Question, Result } from './types'
 import QuestionScreen from './components/QuestionScreen'
 import ResultScreen from './components/ResultScreen'
 import StartScreen from './components/StartScreen'
